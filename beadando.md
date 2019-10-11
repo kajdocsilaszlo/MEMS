@@ -14,7 +14,7 @@ A hallgatóknak egy külön erre a célra létrehozott GitHub repositoriban kell
 ### Pozitív hatást kelt, ha:
 - jól követhető és részletes a dokumentáció
 - az alap információkat a README fájlba, a dokumentációkat a /wiki-ben helyezik el
-- átlátható a repositpory (rendben vannak az Issuek, Brachek, Commitok, Gitingnore, Licenszek)
+- átlátható a repositpory (rendben vannak az Issuek, Brachek, Commitok, Gitignore, Licensz)
 - a repository a feladatnak megfelelően van elnevezve, a leírásban pedig szerepel a tárgykód és a tárgynév
 
 ### Értékelési szempontok:
