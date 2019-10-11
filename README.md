@@ -2,7 +2,7 @@
 
 ## Napjainkban a mikroelektronika robbanásszerű elterjedése teljesen megváltoztatta a világot. Az átlagos hardver komponensek gyors árzuhanása pedig lehetővé tette a felhasználók számára, hogy otthoni innovációval fejlesszék saját eszközeiket. Egy átlagos mikro-elektromechanikai rendszer főleg érzékelőkből, beavatkozó szervekből és vezérlőkből tevődik össze. A tárgy keretein belül tárgyalásra kerülnek a mikroelektronikai alapfogalmak, paradigmák, a leggyakrabban alkalmazott hardver komponensek, azok alkalmazási módjai, a hardver és szoftver közötti optimalizáció és a jövőbeli trendek.
 
-###Témakörök:
+### Témakörök:
 1. Mikro-elektromechanikai rendszerek definiálása. Alapfogalmak (Ohm-törvénye, elektromágneses spektrum, aktív és passzív elemek, szenzorok és aktuátorok, analóg és digitális jelek, műveleti erősítők, beágyazott rendszerek és szoftverek). 
 2. Szenzorok és aktuátorok alapjai. Beágyazott rendszerek alapjai és komponensei.
 3. Breadboard és interfészek. GPIO, I2C, SPI, UART, USB. Analóg és digitális jelek.
