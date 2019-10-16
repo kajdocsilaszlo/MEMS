@@ -2,6 +2,8 @@
 
 A hallgatóknak egy külön erre a célra létrehozott GitHub repositoriban kell dolgozniuk. Elegendő csak az egyik hallgatónak létrehozni egy GitHub repositoryt. Természetesen, mindkét hallgatónak kell hozzáféréssel rendelkezni a repositoryhoz, és egyenlő arányban kell dolgozni a választott feladaton. Ez a git commitokból kell, hogy látszódjon. Az elkészített dokumentációkat a repository /wiki szekciójába kell elkészíteni kötelező jelleggel. Ehhez Markdown leíró nyelvet használjanak. A kód szekcióban kizárólag csak forráskódokat szabad elhelyezni.
 
+Megjegyzés: Az időjárás-állomás feladatot nem lehet választani!
+
 ### Negatív pontokat jelent, ha:
 - tömörített állomány kerül a GitHub repositoryba (pl. zip vagy rar)
 - a csapatból csak az egyik hallgató commitol
