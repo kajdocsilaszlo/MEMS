@@ -7,7 +7,7 @@
 2. Szenzorok és aktuátorok alapjai. Beágyazott rendszerek alapjai és komponensei.
 3. Breadboard és interfészek. GPIO, I2C, SPI, UART, USB. Analóg és digitális jelek.
 4. DC motorok. Léptető motorok. Alapvető motorvezérlések.
-5. Mechanikai, termodinamikai, villamos, mágneses, fizikai és kémiai szenzorok. 
+5. Szenzorok a gyakorlatban. 
 6. Intelligens szenzorok. Gépi látás.
 7. Integrált áramkörök és mikrovezérlők. Hardver és a szoftver kölcsönhatásai.
 8. Beágyazott rendszerek szoftverei. Operációs rendszerek és programozási nyelvek.

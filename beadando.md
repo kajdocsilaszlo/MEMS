@@ -1,6 +1,6 @@
 ## A Mikroelektromechanikai rendszerek beadandójával kapcsolatos tudnivalók
 
-A hallgatóknak egy külön erre a célra létrehozott GitHub repositoriban kell dolgozniuk. Elegendő csak az egyik hallgatónak létrehozni egy GitHub repositoryt. Természetesen, mindkét hallgatónak kell hozzáféréssel rendelkezni a repositoryhoz, és egyenlő arányban kell dolgozni a választott feladaton. Ez a git commitokból kell, hogy látszódjon. Az elkészített dokumentációkat a repository /wiki szekciójába kell elkészíteni kötelező jelleggel. Ehhez Markdown leíró nyelvet használjanak. A kód szekcióban kizárólag csak forráskódokat szabad elhelyezni.
+A hallgatóknak egy külön erre a célra létrehozott GitHub repositoryban kell dolgozniuk. Elegendő csak az egyik hallgatónak létrehozni egy GitHub repositoryt. Természetesen, mindkét hallgatónak kell hozzáféréssel rendelkezni a repositoryhoz, és egyenlő arányban kell dolgozni a választott feladaton. Ez a git commitokból kell, hogy látszódjon. Az elkészített dokumentációkat a repository /wiki szekciójába kell elkészíteni kötelező jelleggel. Ehhez Markdown leíró nyelvet használjanak. A kód szekcióban kizárólag csak forráskódokat szabad elhelyezni.
 
 Megjegyzés: Az időjárás-állomás feladatot nem lehet választani!
 
@@ -16,7 +16,7 @@ Megjegyzés: Az időjárás-állomás feladatot nem lehet választani!
 ### Pozitív hatást kelt, ha:
 - jól követhető és részletes a dokumentáció
 - az alap információkat a README fájlba, a dokumentációkat a /wiki-ben helyezik el
-- átlátható a repositpory (rendben vannak az Issuek, Brachek, Commitok, Gitignore, Licensz)
+- átlátható a repository (rendben vannak az Issuek, Brachek, Commitok, Gitignore, Licensz)
 - a repository a feladatnak megfelelően van elnevezve, a leírásban pedig szerepel a tárgykód és a tárgynév
 
 ### Értékelési szempontok:
